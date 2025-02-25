@@ -22,11 +22,35 @@ Increased integration of AI and ML techniques into software development ,leading
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+The Phases of Software Development Life Cycle(SDLC) include:
+Planning:
+This phase involves defining the project scope ,goals ,timeline, budget and team structure
+
+Requirement Analysis:
+This phase involves gathering detailed user needs and translating them in to functional specifications for the software
+
+Design:
+This phase involves creating a blue print for the software ,outlining system architecture, user interfaces, and data base design
+
+Implementation(Coding):
+This involves writing the actual code for the software based on the design specifications
+
+Testing:
+This involves thorough evaluation of the software to identify and fix bugs ,ensuring it meets functional and non -functional requirements.
+
+Deployment:
+This involves distributing the completed software to the production environment making it accessible to the users
+
+Maintenance:
+This refers to ongoing support after deployment ,including bug fixes, updates, and enhancements to address issues and adapt to changing needs
+
 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a linear sequential project management approach with distinct phases ,While the Agile methodology is an iterative and flexible method that allows for continuous adaptation and customer feedback throughout the development process.This therefore makes Waterfall ideal for projects with well defined requirements and strict deadlines ,while Agile is better suited for complex projects with uncertain needs or frequent changes.An example of a scenario where Waterfall would be used is when Constructing a large building 
+Waterfall is a linear sequential project management approach with distinct phases ,While the Agile methodology is an iterative and flexible method that allows for continuous adaptation and customer feedback throughout the development process.This therefore makes Waterfall ideal for projects with well defined requirements and strict deadlines ,while Agile is better suited for complex projects with uncertain needs or frequent changes.
+An example of a scenario where Waterfall would be in Embedded systems Development when developing firmware for a washing machine once the software is installed in the hardware, changing requirements would be costly and impractical.
+A scenario where Agile methodology is used would be in Mobile App development where during development of for example a new social media app since user preferences and market trends change rapidly ,Agile allows continuous updates based on user feedback
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
