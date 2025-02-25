@@ -17,13 +17,16 @@ Cloud Computing(2000s-Present)
 The widespread adoption of cloud computing platforms, enabling on demand access to computing resources and facilitating scalable software development
 Rapid Prototyping(1980s)
 The emergence of rapid prototyping tools allowing developers to quickly create working models of software to gather early user feedback and refine requirements
-Artificial Intelligence (AI)
+Artificial Intelligence (AI) and Machine Learning (ML)(Present)
+Increased integration of AI and ML techniques into software development ,leading to more intelligent and adaptive applications
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall is a linear sequential project management approach with distinct phases ,While the Agile methodology is an iterative and flexible method that allows for continuous adaptation and customer feedback throughout the development process.This therefore makes Waterfall ideal for projects with well defined requirements and strict deadlines ,while Agile is better suited for complex projects with uncertain needs or frequent changes.An example of a scenario where Waterfall would be used is when Constructing a large building 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
