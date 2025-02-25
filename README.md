@@ -167,3 +167,9 @@ Promt engineering is the process where you guide generative Artificial intellige
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
+The vague promt:"Write an essay about engineering"
+
+The clear ,specific one :"Write a 1000 word essay about sustainable systems in engineering"
+
+The improved promt will give me information on the exact topic I wanted saving me the trouble of going through all the information that would have been generated from the first promt .
+
