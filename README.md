@@ -161,5 +161,9 @@ Accecptance system testing is a crucial phase in software development where the 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Promt engineering is the process where you guide generative Artificial intelligence to generate desired outputs.Promt engineering ensures that AI models produce accurate and relevant outputs .It is the process of crafting effective prompts that guides the models behaviour ensuring effective human AI communication.
+
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
