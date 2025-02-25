@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering refers to the application of enineering principles and the knowledge of programming languages to build software solutions foe end users.
 Applications of software engineering in the technology industry include:
 Design and developing computer games
@@ -13,16 +14,20 @@ Developing systems that control networks
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Cloud Computing(2000s-Present)
 The widespread adoption of cloud computing platforms, enabling on demand access to computing resources and facilitating scalable software development
+
 Rapid Prototyping(1980s)
 The emergence of rapid prototyping tools allowing developers to quickly create working models of software to gather early user feedback and refine requirements
 Artificial Intelligence (AI) and Machine Learning (ML)(Present)
+
 Increased integration of AI and ML techniques into software development ,leading to more intelligent and adaptive applications
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 The Phases of Software Development Life Cycle(SDLC) include:
+
 Planning:
 This phase involves defining the project scope ,goals ,timeline, budget and team structure
 
@@ -48,12 +53,20 @@ This refers to ongoing support after deployment ,including bug fixes, updates, a
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
 Waterfall is a linear sequential project management approach with distinct phases ,While the Agile methodology is an iterative and flexible method that allows for continuous adaptation and customer feedback throughout the development process.This therefore makes Waterfall ideal for projects with well defined requirements and strict deadlines ,while Agile is better suited for complex projects with uncertain needs or frequent changes.
 An example of a scenario where Waterfall would be in Embedded systems Development when developing firmware for a washing machine once the software is installed in the hardware, changing requirements would be costly and impractical.
 A scenario where Agile methodology is used would be in Mobile App development where during development of for example a new social media app since user preferences and market trends change rapidly ,Agile allows continuous updates based on user feedback
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+The Software Developer
+Is responsible for writing the code and developing the entire software product .Aside from coding the Software developer is resposible for sending updates to the project manager and working closely with other team members including the Quality Assuarance Enginneer.Examples of developers include A front-end developer who is responsible for building the user interfaces and all the components that make up the front end of a web application and the Back-end developer who is responsible for coding that part of the website or application that you cant see.
+
+A Quality Assuarance 
+Is responsible for creating tests to identify issues with software before it is deployed ,monitors every phase of the software development process ensuring quality is maintained at every stage of the development process and that the final product meets the requirements
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
