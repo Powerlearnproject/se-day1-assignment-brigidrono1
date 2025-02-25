@@ -5,9 +5,19 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering refers to the application of enineering principles and the knowledge of programming languages to build software solutions foe end users.
+Applications of software engineering in the technology industry include:
+Design and developing computer games
+Developing applications for businesses
+Developing systems that control networks
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Cloud Computing(2000s-Present)
+The widespread adoption of cloud computing platforms, enabling on demand access to computing resources and facilitating scalable software development
+Rapid Prototyping(1980s)
+The emergence of rapid prototyping tools allowing developers to quickly create working models of software to gather early user feedback and refine requirements
+Artificial Intelligence (AI)
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
