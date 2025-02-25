@@ -146,9 +146,14 @@ Break down complex systems in to smaller manageable modules to improve maintanab
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-Unit testing :
-focus-Individual units of code(functions ,modules )within software application
-goal-Identifying and fixing bugs within individual
+Unit testing refers to the practice where individual,smallest testable components of as program are examined in isolation to verify that each unit functions correctly as intended.This therefore allows developers to identify and fix potential issues early in the development process leaeding to higher code quality and reliability
+
+Integration testing refers to the method that verifies how different components or modules of an application interact with each other, ensuring they function correctly when combined and identifying potential issues arising from their communication and data flow.It is crucial in software development as it helps catch bugs and inconsistencies that may not be apparent when testing individual components along leading to a more robust and reliable system.
+
+
+System testing refers to a software testing phase where the entire integrated system is evaluated to verify that all its coomponents work together as intended.It is crucial in software development as it helps identify potential issues and defects that might have been missed earlier in the testing stages ,ultimately contributing to a reliable and high quality product before deployment to end users.
+
+Accecptance system testing is a crucial phase in software development where the system is evaluated by end users or stake holders to verify if it meets the defined business requirements and user needs, essentialy acting as the final quality check before releasing the software to production ensuring it functions as intended and is ready for real world usage.This process is crucial as it allows for early identification of issues from the users perspective minimizing potential customer dissatisfaction and costly post release fixes.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
