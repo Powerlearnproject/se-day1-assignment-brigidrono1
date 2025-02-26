@@ -80,7 +80,7 @@ Debugging and Testing :
 Built in debuggers allow developers to step through their code, set break points and inspect variables
 
 Code Management and Organization :
-Most IDEs include fire explorers, project managers and build automation tools to keep projects organized
+Most IDEs include fire explorers, project managers and build automation tools to keep projects organized 
 
 Integration with other tools :
 Modern IDEs integrate with data bases, cloud services, version control systems and automation tools 
